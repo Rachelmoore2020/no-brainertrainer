@@ -43,8 +43,8 @@
     none
 
 ## Questions:
-For questions about Node File Generator, visit the GitHub page:
-    https://github.com/pmhagwood/no-brainertrainer
+For questions about the no-brainer trainer, visit the GitHub page:
+    https://github.com/rachelmoore2020/no-brainertrainer
 
 ## Demonstration:
   
